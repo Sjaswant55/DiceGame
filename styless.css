@@ -39,3 +39,17 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+.result_main{
+  color: white;
+  font-size: 5rem;
+  font-weight: 900;
+
+}
+
+#result{
+  color: #12ecda;
+  font-size: 3rem;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
